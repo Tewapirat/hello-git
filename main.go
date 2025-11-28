@@ -14,4 +14,5 @@ func Add(x,y int)int{
 
 func Rebase (){
 	fmt.Println("This function is added to demonstrate rebase.")
+	fmt.Println("Rebase helps to keep a clean project history.")
 }
