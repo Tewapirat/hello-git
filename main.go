@@ -11,3 +11,7 @@ func main() {
 func Add(x,y int)int{
 	return x+y
 }
+
+func Rebase (){
+	fmt.Println("This function is added to demonstrate rebase.")
+}
