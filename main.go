@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello, Git!")
+	fmt.Println("This is a new line added to demonstrate version control.")
 }
